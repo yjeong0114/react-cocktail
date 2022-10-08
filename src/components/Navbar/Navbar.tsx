@@ -8,8 +8,8 @@ import { AuthCheck } from 'reactfire';
 const useStyles = makeStyles({
   logo: {
     content: `url(${Digits})`,
-    maxWidth: '20%',
-    height: 'auto',
+    maxWidth: '120px',
+    height: '100px',
   },
   navlogo: {
     display: 'flex',
